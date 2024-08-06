@@ -5,6 +5,11 @@ settings:
   prod:
     pdf_enabled: true
     harmony_enabled: true
+  release_notes_autogen:
+    auto_release_notes_enabled: true
+    repositories_features:
+      - workload-fsx-ontap
+      - # second feature repo  
 
 sidebar: 
   entries:
