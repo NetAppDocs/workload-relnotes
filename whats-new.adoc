@@ -11,14 +11,8 @@ summary: Learn about the most recent changes to the workloads that are part of B
 [.lead]
 Learn about the most recent changes to the workloads that are part of BlueXP Workload Factory. 
 
-https://raw.githubusercontent.com/NetAppDocs/workload-setup-admin/main/whats-new.adoc
+include::workload-fsx-ontap_whatsnew/2024-08-04.adoc[]
 
-https://raw.githubusercontent.com/NetAppDocs/workload-fsx-ontap/main/whats-new.adoc
-
-https://raw.githubusercontent.com/NetAppDocs/workload-databases/main/whats-new.adoc
-
-https://raw.githubusercontent.com/NetAppDocs/workload-vmware/main/whats-new.adoc
-
-https://raw.githubusercontent.com/NetAppDocs/workload-genai/main/whats-new.adoc
+include::workload-fsx-ontap_whatsnew/2024-07-07.adoc[]
 
 // end local content
