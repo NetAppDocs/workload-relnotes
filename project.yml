@@ -14,6 +14,9 @@ settings:
 sidebar: 
   entries:
   - title: Workload Factory release notes
+    url: /index.html
+  - title: Recent changes 
+    url: /whats-new.html 
   - title: Legal notices
     url: /legal-notices.html
 product-family:
