@@ -1,5 +1,5 @@
 settings:
-  name: "Workload Factory release notes"
+  name: "Release notes"
   internal:
     pdf_enabled: true
   prod:
