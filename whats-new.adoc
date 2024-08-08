@@ -11,8 +11,12 @@ summary: Learn about the most recent changes to the workloads that are part of B
 [.lead]
 Learn about the most recent changes to the workloads that are part of BlueXP Workload Factory. 
 
-include::workload-fsx-ontap_whatsnew/2024-08-04.adoc[]
+//end local content 
 
-include::workload-fsx-ontap_whatsnew/2024-07-07.adoc[]
+## 2024-08-04
+_include/workload-fsx-ontap.adoc
+_whatsnew/2024-08-04_workload-fsx-ontap.adoc
 
-// end local content
+## 2024-07-07
+_include/workload-fsx-ontap.adoc
+_whatsnew/2024-07-07_workload-fsx-ontap.adoc
