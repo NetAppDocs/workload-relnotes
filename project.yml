@@ -1,12 +1,25 @@
 settings:
-  name: "Product Name"
+  name: "Release notes"
   internal:
     pdf_enabled: true
   prod:
     pdf_enabled: true
     harmony_enabled: true
+  release_notes_autogen:
+    auto_release_notes_enabled: true
+    repositories_features:
+      - workload-fsx-ontap
+      - # second feature repo  
 
 sidebar: 
   entries:
+  - title: Workload Factory release notes
+    url: /index.html
+  - title: Recent changes 
+    url: /whats-new.html 
   - title: Legal notices
     url: /legal-notices.html
+product-family:
+  name: Workload Factory
+  repo: workload-family
+
