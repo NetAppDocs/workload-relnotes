@@ -12,3 +12,5 @@ summary: Learn about the most recent changes to the workloads that are part of B
 Learn about the most recent changes to the workloads that are part of BlueXP Workload Factory. 
 
 //end local content 
+
+
