@@ -9,7 +9,10 @@ settings:
     auto_release_notes_enabled: true
     repositories_features:
       - workload-fsx-ontap
-      - # second feature repo  
+      - workload-databases
+      - workload-vmware
+      - workload-genai 
+      - workload-setup-admin
 
 sidebar: 
   entries:
