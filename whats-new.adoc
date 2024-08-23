@@ -6,9 +6,13 @@
 
 include::_include/workload-fsx-ontap.adoc[]
 include::_whatsnew/2024-08-04_workload-fsx-ontap.adoc[leveloffset=+1]
+include::_include/workload-setup-admin.adoc[]
+include::_whatsnew/2024-08-04_workload-setup-admin.adoc[leveloffset=+1]
 
 ## 2024-07-07 
 
 include::_include/workload-fsx-ontap.adoc[]
 include::_whatsnew/2024-07-07_workload-fsx-ontap.adoc[leveloffset=+1]
+include::_include/workload-setup-admin.adoc[]
+include::_whatsnew/2024-07-07_workload-setup-admin.adoc[leveloffset=+1]
 
