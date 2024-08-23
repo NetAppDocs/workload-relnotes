@@ -1,14 +1,18 @@
----
-sidebar: sidebar
-permalink: whats-new.html
-keywords: what's new, features, new, release notes, enhancements, fixes, new features, administration, amazon fsx for ontap, databases, genai, vmware
-summary: Learn about the most recent changes to the workloads that are part of BlueXP Workload Factory.  
----
-= Recent changes in BlueXP Workload Factory
-:icons: font
-:imagesdir: ./media/
 
-[.lead]
-Learn about the most recent changes to the workloads that are part of BlueXP Workload Factory. 
 
-//end local content 
+
+// end local content
+## 2024-08-04 
+
+include::_include/workload-fsx-ontap.adoc[]
+include::_whatsnew/2024-08-04_workload-fsx-ontap.adoc[leveloffset=+1]
+include::_include/workload-setup-admin.adoc[]
+include::_whatsnew/2024-08-04_workload-setup-admin.adoc[leveloffset=+1]
+
+## 2024-07-07 
+
+include::_include/workload-fsx-ontap.adoc[]
+include::_whatsnew/2024-07-07_workload-fsx-ontap.adoc[leveloffset=+1]
+include::_include/workload-setup-admin.adoc[]
+include::_whatsnew/2024-07-07_workload-setup-admin.adoc[leveloffset=+1]
+
