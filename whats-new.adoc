@@ -11,4 +11,4 @@ summary: Learn about the most recent changes to the workloads that are part of B
 [.lead]
 Learn about the most recent changes to the workloads that are part of BlueXP Workload Factory. 
 
-//end local content 
+// end local content 
