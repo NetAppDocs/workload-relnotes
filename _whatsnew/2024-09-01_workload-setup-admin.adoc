@@ -1,0 +1,11 @@
+=== RSS subscription
+RSS subscription is available from the link:https://console.workloads.netapp.com/[Workload Factory console^]. Using an RSS feed is an easy way to consume and be aware of changes in BlueXP Workload Factory. 
+
+image:screenshot-rss-subscribe-button.png["Screenshot of Workload Factory console help dropdown menu. A new button to subscribe to RSS appears as an option in the dropdown menu."]
+
+=== Support for a single permission policy per workload 
+When adding AWS credentials in Workload Factory, you can now select a single permission policy, either read or automate mode, for each workload and storage management. 
+
+image:screenshot-single-permission-policy-support.png["Screenshot of permissions configuration section on the Credentials page where you can select read or automate permissions policies for storage management, AI workloads, databases workloads, and VMware workloads."]
+
+link:https://docs.netapp.com/us-en/workload-setup-admin/add-credentials.html[Add AWS credentials to Workload Factory^]
