@@ -14,6 +14,8 @@ Learn about the most recent changes to the workloads that are part of BlueXP Wor
 // end local content
 ## 2024-09-01 
 
+include::_include/workload-fsx-ontap.adoc[]
+include::_whatsnew/2024-09-01_workload-fsx-ontap.adoc[leveloffset=+1]
 include::_include/workload-databases.adoc[]
 include::_whatsnew/2024-09-01_workload-databases.adoc[leveloffset=+1]
 
