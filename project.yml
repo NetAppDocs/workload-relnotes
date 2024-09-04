@@ -1,5 +1,6 @@
 settings:
   name: "Release notes"
+  rss_page: "whats-new.html"
   internal:
     pdf_enabled: true
   prod:
