@@ -1,0 +1,10 @@
+=== Take a snapshot of and restore a knowledge base volume
+
+You can now protect your Generative AI workloads data by taking a point-in-time copy of a knowledge base. This enables you to protect your data against accidental loss or test changes to the settings of the knowledge base. You can restore the previous version of the knowledge base volume at any time.
+
+=== Pause scheduled scans
+
+You can now pause scheduled data source scans. By default, Generative AI workloads scans each data source daily to ingest new data into each knowledge base. If you don't want the latest changes to be ingested (during testing or while restoring a snapshot, for example) you can pause the scheduled scans and resume them at any time.
+
+=== Data protection volumes now supported for knowledge bases
+When selecting a knowledge base volume, you can now choose a data protection volume that is part of a NetApp SnapMirror replication relationship. This enables you to store knowledge bases on volumes that are already protected by SnapMirror replication.
