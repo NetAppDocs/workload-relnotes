@@ -1,4 +1,4 @@
-=== Take a snapshot of and restore a knowledge base volume
+=== Snapshot and restore support for knowledge base volumes
 
 You can now protect your Generative AI workloads data by taking a point-in-time copy of a knowledge base. This enables you to protect your data against accidental loss or test changes to the settings of the knowledge base. You can restore the previous version of the knowledge base volume at any time.
 
