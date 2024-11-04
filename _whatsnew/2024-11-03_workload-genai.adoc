@@ -1,0 +1,7 @@
+=== Mask Personal Identifiable Information with data guardrails 
+
+The Generative AI workload introduces the data guardrails feature, powered by BlueXP classification. The data guardrails feature identifies and masks Personal Identifiable Information (PII) helping you maintain compliance and strengthen security for your sensitive organizational data. 
+
+link:https://docs.netapp.com/us-en/workload-genai/create-knowledgebase.html#create-and-configure-the-knowledge-base[Create a knowledge base]
+
+link:https://docs.netapp.com/us-en/bluexp-classification/concept-cloud-compliance.html[Learn about BlueXP classification^]
