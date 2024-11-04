@@ -18,6 +18,8 @@ include::_include/workload-fsx-ontap.adoc[]
 include::_whatsnew/2024-11-03_workload-fsx-ontap.adoc[leveloffset=+1]
 include::_include/workload-databases.adoc[]
 include::_whatsnew/2024-11-03_workload-databases.adoc[leveloffset=+1]
+include::_include/workload-vmware.adoc[]
+include::_whatsnew/2024-11-03_workload-vmware.adoc[leveloffset=+1]
 
 ## 2024-09-29 
 
@@ -55,8 +57,6 @@ include::_whatsnew/2024-08-04_workload-setup-admin.adoc[leveloffset=+1]
 
 ## 2024-07-07 
 
-include::_include/workload-vmware.adoc[]
-include::_whatsnew/2024-07-07_workload-vmware.adoc[leveloffset=+1]
 include::_include/workload-setup-admin.adoc[]
 include::_whatsnew/2024-07-07_workload-setup-admin.adoc[leveloffset=+1]
 
