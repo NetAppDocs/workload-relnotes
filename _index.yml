@@ -6,7 +6,7 @@ indexpage:
   tiles: 
     - title: What's new
       links: 
-        - title: Recent changes in Workload Factory
+        - title: Recent changes in BlueXP workload factory
           url: whats-new.html
         # Next link on this tile (title/url pair)
     #   - title: Blogs & community
