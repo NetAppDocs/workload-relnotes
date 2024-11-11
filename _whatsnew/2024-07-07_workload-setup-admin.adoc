@@ -1,3 +1,0 @@
-=== Initial release of Workload Factory
-
-BlueXP Workload Factory for AWS is a powerful life-cycle management platform designed to help you optimize your workloads using Amazon FSx for NetApp ONTAP file systems. Workloads that can be streamlined using Workload Factory and FSx for ONTAP include databases, VMware migrations to VMware Cloud on AWS, AI chatbots, and more.

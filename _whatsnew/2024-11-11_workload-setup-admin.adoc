@@ -1,0 +1,4 @@
+=== Workload factory integration in the BlueXP console   
+You now have the ability to use workload factory from the link:https://console.bluexp.netapp.com[BlueXP console^]. The BlueXP console experience provides the same functionality as the workload factory console.  
+
+link:https://docs.netapp.com/workload-setup-admin/console-experiences.html[Learn how to access workload factory from the BlueXP console]
