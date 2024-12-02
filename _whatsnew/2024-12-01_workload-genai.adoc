@@ -1,0 +1,17 @@
+=== Clone a knowledgebase from a snapshot
+BlueXP workload factory for GenAI now supports cloning a knowledge base from a snapshot. This enables quick recovery of knowledge bases and creation of new knowledge bases with existing data sources, and helps with data recovery and development.
+
+
+link:https://docs.netapp.com/us-en/workload-genai/manage-knowledgebase.html#clone-a-knowledge-base[Clone a knowledge base]
+
+=== On-premises ONTAP cluster discovery and replication
+Discover and replicate on-premises ONTAP cluster data to an FSx for ONTAP file system so that it can be used to enrich AI knowledge bases.  All on-premises discovery and replication workflows are possible from the new *On-Premises ONTAP* tab in the Storage inventory.
+ 
+link:https://docs.netapp.com/us-en/workload-fsx-ontap/use-onprem-data.html[Discover an on-premises ONTAP cluster]
+
+//=== Rebuild corrupted or missing GenAI infrastructure
+
+//If your AI engine instance becomes corrupted or is somehow deleted, you can let workload factory rebuild it for you. Workload factory automatically reattaches your knowledge bases to the infrastructure when complete, so that they are ready to use.
+
+//link:https://docs.netapp.com/us-en/workload-genai/troubleshooting.html[Troubleshooting]
+
