@@ -1,7 +1,0 @@
-=== Additional chunking strategies
-
-Generative AI workloads now supports multi-sentence chunking and overlap-based chunking for data sources.
-
-=== Dedicated volume for each knowledge base
-
-Generative AI workloads now creates a dedicated Amazon FSx for NetApp ONTAP volume for each new knowledge base, enabling individual snapshot policies for each knowledge base and improved protection against failures and data poisoning.
