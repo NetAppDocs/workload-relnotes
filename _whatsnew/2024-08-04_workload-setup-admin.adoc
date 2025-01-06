@@ -1,5 +1,0 @@
-=== Terraform support
-
-Terraform support is available for Amazon FSx for NetApp ONTAP file system deployment and storage VM creation. The setup and admin guide now has instructions for how to use Terraform from the Codebox. 
-
-link:https://docs.netapp.com/us-en/workload-setup-admin/use-codebox.html[Use Terraform from Codebox^]
