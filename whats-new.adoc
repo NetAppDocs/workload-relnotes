@@ -12,6 +12,11 @@ summary: "Learn about the most recent changes to the workloads that are part of 
 Learn about the most recent changes to the workloads that are part of BlueXP workload factory. 
 
 // end local content
+## 2025-01-06 
+
+include::_include/workload-databases.adoc[]
+include::_whatsnew/2025-01-06_workload-databases.adoc[leveloffset=+1]
+
 ## 2025-01-05 
 
 include::_include/workload-fsx-ontap.adoc[]
@@ -46,8 +51,6 @@ include::_whatsnew/2024-11-03_workload-genai.adoc[leveloffset=+1]
 
 ## 2024-09-29 
 
-include::_include/workload-databases.adoc[]
-include::_whatsnew/2024-09-29_workload-databases.adoc[leveloffset=+1]
 include::_include/workload-genai.adoc[]
 include::_whatsnew/2024-09-29_workload-genai.adoc[leveloffset=+1]
 
