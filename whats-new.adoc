@@ -21,6 +21,8 @@ include::_whatsnew/2025-01-06_workload-databases.adoc[leveloffset=+1]
 
 include::_include/workload-fsx-ontap.adoc[]
 include::_whatsnew/2025-01-05_workload-fsx-ontap.adoc[leveloffset=+1]
+include::_include/workload-genai.adoc[]
+include::_whatsnew/2025-01-05_workload-genai.adoc[leveloffset=+1]
 
 ## 2024-12-01 
 
@@ -48,11 +50,6 @@ include::_include/workload-vmware.adoc[]
 include::_whatsnew/2024-11-03_workload-vmware.adoc[leveloffset=+1]
 include::_include/workload-genai.adoc[]
 include::_whatsnew/2024-11-03_workload-genai.adoc[leveloffset=+1]
-
-## 2024-09-29 
-
-include::_include/workload-genai.adoc[]
-include::_whatsnew/2024-09-29_workload-genai.adoc[leveloffset=+1]
 
 ## 2024-09-19 
 
