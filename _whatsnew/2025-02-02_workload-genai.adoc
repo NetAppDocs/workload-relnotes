@@ -1,0 +1,21 @@
+=== File type filtering for data sources
+GenAI now supports selecting specific file types to include in the data source scan when you add a data source. 
+ 
+link:https://docs.netapp.com/us-en/workload-genai/create-knowledgebase.html#add-data-sources-to-the-knowledge-base[Add data sources to the knowledge base]
+
+=== File modification date filtering for data sources
+GenAI now supports filtering files to include in the data source scan by modification date when you add a data source. You can choose a modification date range for the included files. 
+
+link:https://docs.netapp.com/us-en/workload-genai/create-knowledgebase.html#add-data-sources-to-the-knowledge-base[Add data sources to the knowledge base]
+
+=== Support for image files and enhanced support for PDF files 
+GenAI now supports scanning image files and images within PDF files (also known as multi-modal file support). If you choose image files, the text from the images is scanned into the data source and used as data. This capability includes images within PDF documents; if you include PDF file types, images within each PDF are scanned for text, and that text is included in the information from the data source. 
+ 
+link:https://docs.netapp.com/us-en/workload-genai/create-knowledgebase.html#add-data-sources-to-the-knowledge-base[Add data sources to the knowledge base]
+
+=== Hybrid search and rerank support
+
+GenAI now enhances the relevance of search results by using hybrid search and re-ranking the results. Hybrid search combines keyword searches with vector and semantic searching. The standard keyword search results are augmented with close matches and linguistic nuance, enhancing relevance. GenAI re-ranks the search results and only returns results with the highest relevance.
+
+link:https://docs.netapp.com/us-en/workload-genai/ai-workloads-overview.html#benefits-of-using-genai-to-create-generative-ai-applications[Learn about BlueXP workload factory for GenAI]
+
