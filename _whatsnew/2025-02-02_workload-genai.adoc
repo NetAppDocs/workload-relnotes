@@ -1,3 +1,8 @@
+=== Support for Amazon Nova foundation models
+GenAI now supports the Amazon Nova foundation models. Amazon Nova Micro, Amazon Nova Lite, and Amazon Nova Pro are supported. 
+
+link:https://docs.netapp.com/us-en/workload-genai/requirements.html[GenAI requirements]
+
 === File type filtering for data sources
 GenAI now supports selecting specific file types to include in the data source scan when you add a data source. 
  
