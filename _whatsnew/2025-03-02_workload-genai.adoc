@@ -1,0 +1,18 @@
+=== Embedded chatbot enhancements
+You can now copy questions and responses directly to the clipboard, adjust the size of the chat window, and change its title. Additionally, chat responses can now include tables, which are also copyable.
+
+link:https://docs.netapp.com/us-en/workload-genai/test-knowledgebase.html[Test a GenAI knowledge base]
+
+=== Chat response citation support
+Chat responses now include citations that list the files and chunks of data that were used to generate the response. 
+
+link:https://docs.netapp.com/us-en/workload-genai/test-knowledgebase.html[Test a GenAI knowledge base]
+
+=== Enhanced file type support
+This release of GenAI provides enhanced file support:
+
+* Chat models feature improved CSV support. This enables more useful responses when querying data from CSV files.
+* GenAI can now ingest Apache Parquet files from data sources.
+* GenAI now supports ingesting Microsoft Word DOCX files that include images.
+ 
+link:https://review.docs.netapp.com/us-en/workload-genai_mar-2-release/identify-data-sources.html#supported-data-source-file-formats[Supported data source file formats]
