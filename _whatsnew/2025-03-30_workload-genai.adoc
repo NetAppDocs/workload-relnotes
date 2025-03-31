@@ -16,6 +16,8 @@ link:https://docs.netapp.com/us-en/workload-genai/create-knowledgebase.html[Crea
 === Support for adding data sources from generic NFS/SMB shares
 Using the workload factory API, you can now add a data source from a generic NFSv3, NFSv4, or SMB share. When you add a data source from an NFS or SMB share, the knowledge base volume remains on an Amazon FSx for NetApp ONTAP volume. The workload factory web UI will support this feature in a future release.
 
+link:https://console.workloads.netapp.com/api-doc[Use the workload factory API^]
+
 === VPC peering support
 You can now deploy GenAI infrastructure across link:https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html[peered Virtual Private Clouds (VPCs)^] that are in the same region and use the same AWS account. You can deploy the AI engine in a VPC and then create a knowledge base in a peered VPC, and select Amazon FSx for NetApp ONTAP filesystems that reside in a peered VPC.
 
