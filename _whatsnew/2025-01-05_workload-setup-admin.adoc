@@ -1,4 +1,0 @@
-=== Support for service accounts in BlueXP workload factory
-Service accounts are now supported in BlueXP workload factory. You can create service accounts to act as machine users that automate infrastructure operations. 
-
-link:https://docs.netapp.com/us-en/workload-setup-admin/manage-service-accounts.html[Create and manage service accounts]
