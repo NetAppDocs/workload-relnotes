@@ -3,7 +3,7 @@ When using CloudShell, each time you issue an ONTAP CLI command and an error occ
 
 link:https://docs.netapp.com/us-en/workload-setup-admin/use-cloudshell.html[Use CloudShell]
 
-=== `iam:SimulatePermissionPolicy` permission update
+=== iam:SimulatePermissionPolicy permission update
 Now you can manage the `iam:SimulatePrincipalPolicy` permission from the workload factory console when you add additional AWS account credentials or add a new workload capability such as the GenAI workload. 
 
 link:https://docs.netapp.com/us-en/workload-setup-admin/permissions-reference.html#change-log[Permissions reference change log]
