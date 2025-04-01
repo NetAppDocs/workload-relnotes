@@ -1,4 +1,4 @@
-=== CloudShell reports AI-generated errors for ONTAP CLI commands
+=== CloudShell reports AI-generated error responses for ONTAP CLI commands
 When using CloudShell, each time you issue an ONTAP CLI command and an error occurs, you can get AI-generated error responses that include a description of the failure, the cause of the failure, and a detailed resolution.
 
 link:https://docs.netapp.com/us-en/workload-setup-admin/use-cloudshell.html[Use CloudShell]
