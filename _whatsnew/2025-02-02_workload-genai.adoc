@@ -14,13 +14,13 @@ GenAI now supports filtering files to include in the data source scan by modific
 link:https://docs.netapp.com/us-en/workload-genai/create-knowledgebase.html#add-data-sources-to-the-knowledge-base[Add data sources to the knowledge base]
 
 === Support for image files and enhanced support for PDF files 
-GenAI now supports scanning image files and images within PDF files (also known as multi-modal file support). If you choose image files, the text from the images is scanned into the data source and used as data. This capability includes images within PDF documents; if you include PDF file types, images within each PDF are scanned for text, and that text is included in the information from the data source. 
+GenAI now supports enhancing responses to knowledge base queries with insights from images and graph descriptions, as well as document text, leading to richer and higher quality answers. GenAI can now scan image files and images within PDF files (also known as multi-modal file support). If you choose to scan images or PDF files, the text from the images (including images embedded in PDF documents) is scanned into the data source and insights from the scans are included in the responses to knowledge base queries.
  
 link:https://docs.netapp.com/us-en/workload-genai/create-knowledgebase.html#add-data-sources-to-the-knowledge-base[Add data sources to the knowledge base]
 
 === Hybrid search and rerank support
 
-GenAI now enhances the relevance of search results by using hybrid search and re-ranking the results. Hybrid search combines keyword searches with vector and semantic searching. The standard keyword search results are augmented with close matches and linguistic nuance, enhancing relevance. GenAI re-ranks the search results and only returns results with the highest relevance.
+GenAI can now significantly enhances the relevance and accuracy of search results by using hybrid search and re-ranking the results. Hybrid search combines the strengths of traditional keyword-based search with advanced dense vector-based semantic search techniques. The standard keyword search results are augmented with close matches and linguistic nuance, enhancing relevance. GenAI then refines these results further by using advanced re-ranking models, such as Cohere Rerank and Amazon Rerank, and returns the most relevant results. This capability is available for newly created knowledge bases.
 
 link:https://docs.netapp.com/us-en/workload-genai/ai-workloads-overview.html#benefits-of-using-genai-to-create-generative-ai-applications[Learn about BlueXP workload factory for GenAI]
 
