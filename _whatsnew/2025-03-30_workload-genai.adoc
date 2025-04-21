@@ -1,7 +1,7 @@
 === Enhanced file type support
 This release of GenAI introduces JSON and JSONP file format support when ingensting `.json`  files from data sources. JSON files with nested objects are supported, with limited support for nested arrays.
 
-link:https://review.docs.netapp.com/us-en/workload-genai_mar-2-release/identify-data-sources.html#supported-data-source-file-formats[Supported data source file formats]
+link:https://docs.netapp.com/us-en/workload-genai/identify-data-sources.html#supported-data-source-file-formats[Supported data source file formats]
 
 === Internationalization support for the external chatbot sample application
 You can now easily change the user interface of the GenAI sample external chatbot application to a different language or locale.
