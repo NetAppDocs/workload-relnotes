@@ -15,4 +15,4 @@ This release of GenAI provides enhanced file support:
 * GenAI can now ingest Apache Parquet files from data sources.
 * GenAI now supports ingesting Microsoft Word DOCX files that include images. Images embedded within DOCX documents are scanned, and text insights from the embedded images are included in responses to knowledge base queries.
  
-link:https://review.docs.netapp.com/us-en/workload-genai_mar-2-release/identify-data-sources.html#supported-data-source-file-formats[Supported data source file formats]
+link:https://docs.netapp.com/us-en/workload-genai/identify-data-sources.html#supported-data-source-file-formats[Supported data source file formats]
