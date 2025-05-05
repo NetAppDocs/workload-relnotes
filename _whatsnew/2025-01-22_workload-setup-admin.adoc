@@ -1,4 +1,0 @@
-=== BlueXP workload factory permissions
-You can now view the permissions that BlueXP workload factory uses to execute various operations starting from the discovery of your storage environments to deploying AWS resources such as file systems in Storage or knowledge bases for GenAI workloads. You can view IAM policies and permissions for Storage, Databases, VMware, and GenAI workloads.
-
-link:https://docs.netapp.com/us-en/workload-setup-admin/permissions-reference.html[BlueXP workload factory permissions] 

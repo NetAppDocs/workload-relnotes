@@ -12,6 +12,19 @@ summary: "Learn about the most recent changes to the workloads that are part of 
 Learn about the most recent changes to the workloads that are part of BlueXP workload factory. 
 
 // end local content
+## 2025-05-04 
+
+include::_include/workload-fsx-ontap.adoc[]
+include::_whatsnew/2025-05-04_workload-fsx-ontap.adoc[leveloffset=+1]
+include::_include/workload-databases.adoc[]
+include::_whatsnew/2025-05-04_workload-databases.adoc[leveloffset=+1]
+include::_include/workload-vmware.adoc[]
+include::_whatsnew/2025-05-04_workload-vmware.adoc[leveloffset=+1]
+include::_include/workload-genai.adoc[]
+include::_whatsnew/2025-05-04_workload-genai.adoc[leveloffset=+1]
+include::_include/workload-setup-admin.adoc[]
+include::_whatsnew/2025-05-04_workload-setup-admin.adoc[leveloffset=+1]
+
 ## 2025-04-04 
 
 include::_include/workload-databases.adoc[]
@@ -42,27 +55,8 @@ include::_whatsnew/2025-03-02_workload-vmware.adoc[leveloffset=+1]
 include::_include/workload-genai.adoc[]
 include::_whatsnew/2025-03-02_workload-genai.adoc[leveloffset=+1]
 
-## 2025-02-03 
-
-include::_include/workload-databases.adoc[]
-include::_whatsnew/2025-02-03_workload-databases.adoc[leveloffset=+1]
-
 ## 2025-02-02 
 
-include::_include/workload-fsx-ontap.adoc[]
-include::_whatsnew/2025-02-02_workload-fsx-ontap.adoc[leveloffset=+1]
-include::_include/workload-genai.adoc[]
-include::_whatsnew/2025-02-02_workload-genai.adoc[leveloffset=+1]
 include::_include/workload-setup-admin.adoc[]
 include::_whatsnew/2025-02-02_workload-setup-admin.adoc[leveloffset=+1]
-
-## 2025-01-22 
-
-include::_include/workload-setup-admin.adoc[]
-include::_whatsnew/2025-01-22_workload-setup-admin.adoc[leveloffset=+1]
-
-## 2025-01-05 
-
-include::_include/workload-vmware.adoc[]
-include::_whatsnew/2025-01-05_workload-vmware.adoc[leveloffset=+1]
 
