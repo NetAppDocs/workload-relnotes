@@ -19,10 +19,4 @@ link:https://docs.aws.amazon.com/bedrock/latest/userguide/models-supported.html[
 link:https://docs.netapp.com/us-en/workload-genai/knowledge-base/create-knowledgebase.html[Create a GenAI knowledge base]
 
 === Updated permissions terminology
-The workload factory user interface and documentation now use "Read-only" to refer to read permissions and "Read-Write" to refer to automate permissions.
-
-
-
-
-
-
+The workload factory user interface and documentation now use "read-only" to refer to read permissions and "read/write" to refer to automate permissions.
