@@ -14,6 +14,7 @@ settings:
       - workload-vmware
       - workload-genai 
       - workload-setup-admin
+      - workload-builders
 
 sidebar: 
   entries:
