@@ -38,6 +38,8 @@ include::_include/workload-genai.adoc[]
 include::_whatsnew/2025-05-04_workload-genai.adoc[leveloffset=+1]
 include::_include/workload-setup-admin.adoc[]
 include::_whatsnew/2025-05-04_workload-setup-admin.adoc[leveloffset=+1]
+include::_include/workload-builders.adoc[]
+include::_whatsnew/2025-05-04_workload-builders.adoc[leveloffset=+1]
 
 ## 2025-04-04 
 
@@ -62,4 +64,9 @@ include::_whatsnew/2025-03-02_workload-vmware.adoc[leveloffset=+1]
 
 include::_include/workload-setup-admin.adoc[]
 include::_whatsnew/2025-02-02_workload-setup-admin.adoc[leveloffset=+1]
+
+## 2024-12-01 
+
+include::_include/workload-builders.adoc[]
+include::_whatsnew/2024-12-01_workload-builders.adoc[leveloffset=+1]
 

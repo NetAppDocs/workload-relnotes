@@ -1,0 +1,4 @@
+=== Builders workload initial release  
+BlueXP workload factory for Builders simplifies software version consumption and access, eliminating the need for custom tools or scripts. It enables you to consume software versions as instant clones integrated with Perforce Helix Core as a convenient workspace for your development processes, saving time and resources.
+
+The initial release includes the capability to manage projects and workspaces, and automate actions with Codebox. You can also integrate Builders with Perforce Helix Core, so that you can manage different versions of each project and switch between them quickly.
