@@ -1,0 +1,4 @@
+=== Updated permissions terminology
+The workload factory user interface and documentation now use "read-only" to refer to read permissions and "read/write" to refer to automate permissions.
+
+// Use absolute links in these files
