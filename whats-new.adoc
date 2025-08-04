@@ -16,6 +16,8 @@ Learn about the most recent changes to the workloads that are part of BlueXP wor
 
 include::_include/workload-fsx-ontap.adoc[]
 include::_whatsnew/2025-08-03_workload-fsx-ontap.adoc[leveloffset=+1]
+include::_include/workload-vmware.adoc[]
+include::_whatsnew/2025-08-03_workload-vmware.adoc[leveloffset=+1]
 
 ## 2025-06-30 
 
@@ -65,8 +67,6 @@ include::_whatsnew/2025-05-04_workload-builders.adoc[leveloffset=+1]
 
 ## 2025-03-30 
 
-include::_include/workload-vmware.adoc[]
-include::_whatsnew/2025-03-30_workload-vmware.adoc[leveloffset=+1]
 include::_include/workload-setup-admin.adoc[]
 include::_whatsnew/2025-03-30_workload-setup-admin.adoc[leveloffset=+1]
 
