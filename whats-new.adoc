@@ -57,8 +57,3 @@ include::_whatsnew/2025-06-29_workload-genai.adoc[leveloffset=+1]
 include::_include/workload-setup-admin.adoc[]
 include::_whatsnew/2025-06-29_workload-setup-admin.adoc[leveloffset=+1]
 
-## 16 June 2025 
-
-include::_include/workload-builders.adoc[]
-include::_whatsnew/2025-06-16_workload-builders.adoc[leveloffset=+1]
-
