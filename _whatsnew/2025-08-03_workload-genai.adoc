@@ -4,6 +4,6 @@ If chatbot query results contain structured data, GenAI can store the results in
 link:https://docs.netapp.com/us-en/workload-genai/knowledge-base/create-knowledgebase.html[Create a GenAI knowledge base]
 
 === MCP server availability
-NetApp now provides a Model Context Protocol (MCP) server with BlueXP workload factory for GenAI. You can install the server locally to enable external MCP clients to discover and retrieve query results from a GenAI knowledge base.
+NetApp now provides a Model Context Protocol (MCP) server with NetApp Workload Factory for GenAI. You can install the server locally to enable external MCP clients to discover and retrieve query results from a GenAI knowledge base.
 
-link:https://github.com/NetApp/mcp/tree/main/NetApp-KnowledgeBase-MCP-server[NetApp workload factory GenAI MCP server^]
+link:https://github.com/NetApp/mcp/tree/main/NetApp-KnowledgeBase-MCP-server[NetApp Workload Factory GenAI MCP server^]
