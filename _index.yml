@@ -1,19 +1,10 @@
 indexpage:
-  title: BlueXP workload factory release notes
-  lead: These release notes describe recent enhancements to the cloud services that are part of BlueXP workload factory. 
-  summary: These release notes describe recent enhancements to the cloud services that are part of BlueXP workload factory. 
-  keywords: BlueXP workload factory, release notes, what's new
-  tiles: 
+  title: NetApp Workload Factory release notes
+  lead: These release notes describe recent enhancements to the cloud services that are part of NetApp Workload Factory. 
+  summary: These release notes describe recent enhancements to the cloud services that are part of NetApp Workload Factory.
+  keywords: NetApp Workload Factory, release notes, what's new
+  tiles:
     - title: What's new
       links: 
-        - title: Recent changes in BlueXP workload factory
+        - title: Recent changes in NetApp Workload Factory
           url: whats-new.html
-        # Next link on this tile (title/url pair)
-    #   - title: Blogs & community
-    #     entries:
-    #       - title: NetApp Community
-   #          url: 
-   #        - title: BlueXP blogs
-   #          url: 
-   #        - title: Cloud webinars
-  #           url: 
