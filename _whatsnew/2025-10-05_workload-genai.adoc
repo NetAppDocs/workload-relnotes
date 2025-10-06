@@ -1,0 +1,23 @@
+=== BlueXP workload factory now NetApp Workload Factory
+ 
+BlueXP has been renamed and redesigned to better reflect the role it has in managing your data infrastructure. As a result, BlueXP workload factory has been renamed to NetApp Workload Factory.
+
+=== Support for adding generic NFS/SMB data sources in NetApp connectors for Amazon Q Business
+// WLMAI-1213
+Using the Workload Factory API, you can now add a data source from a generic NFSv3, NFSv4, or SMB share to a NetApp Connector for Amazon Q Business. This enables you to include files that are stored on volumes hosted by filesystems other than Amazon FSx for NetApp ONTAP.
+
+link:https://docs.netapp.com/us-en/workload-genai/connector/define-connector.html[Create a NetApp Connector for Amazon Q Business]
+
+link:https://docs.netapp.com/us-en/workload-genai/connector/define-connector.html#add-data-sources-to-the-connector[Add data sources to a connector]
+
+=== Advanced chat configuration for knowledge bases
+// WLMAI-1755, WLMAI-1943
+You can now configure advanced chat settings that are applicable to the chat model for the knowledge base such as the response length, temperature, reasoning settings, and more. Some of these settings, such as recency and modification time settings, advanced retrieval settings, and system prompt are available only using the Workload Factory API.
+
+link:https://docs.netapp.com/us-en/workload-genai/knowledge-base/create-knowledgebase.html[Create a GenAI knowledge base]
+
+=== Inference type selection now supported for embedding, chat, and reranking models
+// WLMAI-1660
+If your chosen embedding, chat, or reranking model has inference settings, you can now select an inference type. This enables you to better tune the chatbot performance and resource requirements to your needs.
+
+link:https://docs.netapp.com/us-en/workload-genai/knowledge-base/create-knowledgebase.html[Create a GenAI knowledge base]
