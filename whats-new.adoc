@@ -16,6 +16,8 @@ Learn about the most recent changes to the workloads that are part of NetApp Wor
 
 include::_include/workload-fsx-ontap.adoc[]
 include::_whatsnew/2025-11-02_workload-fsx-ontap.adoc[leveloffset=+1]
+include::_include/workload-databases.adoc[]
+include::_whatsnew/2025-11-02_workload-databases.adoc[leveloffset=+1]
 
 ## 06 October 2025 
 
