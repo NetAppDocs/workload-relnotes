@@ -1,9 +1,0 @@
-=== Secure storage for structured data results
-If chatbot query results contain structured data, GenAI can store the results in an Amazon S3 bucket. When these results are stored in an S3 bucket, you can download them using the download link within the chat session.
-
-link:https://docs.netapp.com/us-en/workload-genai/knowledge-base/create-knowledgebase.html[Create a GenAI knowledge base]
-
-=== MCP server availability
-NetApp now provides a Model Context Protocol (MCP) server with NetApp Workload Factory for GenAI. You can install the server locally to enable external MCP clients to discover and retrieve query results from a GenAI knowledge base.
-
-link:https://github.com/NetApp/mcp/tree/main/NetApp-KnowledgeBase-MCP-server[NetApp Workload Factory GenAI MCP server^]
