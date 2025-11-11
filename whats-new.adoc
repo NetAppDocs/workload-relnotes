@@ -57,8 +57,3 @@ include::_whatsnew/2025-09-09_workload-setup-admin.adoc[leveloffset=+1]
 include::_include/workload-databases.adoc[]
 include::_whatsnew/2025-09-01_workload-databases.adoc[leveloffset=+1]
 
-## 12 August 2025 
-
-include::_include/workload-databases.adoc[]
-include::_whatsnew/2025-08-12_workload-databases.adoc[leveloffset=+1]
-
