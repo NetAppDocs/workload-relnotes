@@ -1,0 +1,9 @@
+=== Permissions update for Storage
+The FSx for ONTAP EMS events analyzer uses the following Amazon Bedrock permissions in the _operations and remediation_ permission policy to fetch events data for the Storage workload.
+
+* `bedrock:ListInferenceProfiles`
+* `bedrock:GetInferenceProfile`
+* `bedrock:InvokeModelWithResponseStream`
+* `bedrock:InvokeModel`
+
+link:https://docs.netapp.com/us-en/workload-setup-admin/permissions-reference.html#change-log[Permissions reference change log]
