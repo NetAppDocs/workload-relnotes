@@ -61,10 +61,3 @@ include::_whatsnew/2025-10-05_workload-setup-admin.adoc[leveloffset=+1]
 include::_include/workload-builders.adoc[]
 include::_whatsnew/2025-10-05_workload-builders.adoc[leveloffset=+1]
 
-## 09 September 2025 
-
-include::_include/workload-fsx-ontap.adoc[]
-include::_whatsnew/2025-09-09_workload-fsx-ontap.adoc[leveloffset=+1]
-include::_include/workload-setup-admin.adoc[]
-include::_whatsnew/2025-09-09_workload-setup-admin.adoc[leveloffset=+1]
-

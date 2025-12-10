@@ -1,5 +1,0 @@
-=== New notification for Storage
-
-The BlueXP workload factory notification service includes the notification for automatic capacity management for Storage.
-
-link:https://docs.netapp.com/us-en/workload-setup-admin/configure-notifications.html[Notifications for BlueXP workload factory]
