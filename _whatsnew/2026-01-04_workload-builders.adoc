@@ -1,6 +1,6 @@
-=== Builders workload factory now EDA Workload Factory
+=== NetApp Workload Factory for Builders now NetApp Workload Factory for EDA
  
-NetApp Workload Factory for Builders is now NetApp Workload Factory for EDA. The name change reflects the focus on electronic design automation (EDA) workloads.
+ Workload Factory for Builders is now Workload Factory for EDA. The name change reflects the focus on electronic design automation (EDA) workloads.
  
 EDA helps you optimize FSx for ONTAP usage performance, prevent capacity constraints, and automate storage provisioning by integrating it with Infrastructure as Code (IaC), ensuring consistent and reliable use by workloads.
 
