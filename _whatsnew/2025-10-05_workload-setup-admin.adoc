@@ -1,5 +1,0 @@
-=== New notification for Storage
-
-The NetApp Workload Factory notification service includes the notification for well-architected issues for Storage.
-
-link:https://docs.netapp.com/us-en/workload-setup-admin/configure-notifications.html[Notifications for NetApp Workload Factory]
