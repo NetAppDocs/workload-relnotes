@@ -1,0 +1,32 @@
+=== Well-architected updates 
+NetApp Workload Factory includes the well-architected assessment for Elastic VMware Service (EVS) workloads, and adds new configurations for Storage and Database workloads.
+
+* *VMware workloads*
+NetApp Workload Factory provides best practices and recommendations for operating well-architected Amazon Elastic VMware Service (EVS) workloads. 
++
+link:https://docs.netapp.com/us-en/workload-vmware/view-evs-well-architected.html[Implement well-architected EVS configurations^]
+
+* *Storage workloads*
+Several new configurations have been added to well-architected feature in the Storage workload so that you have more insight into storage performance and costs. 
++
+** Storage VM logical reporting
+** Optimize cache volume size
+** Orphaned block devices
++
+link:https://docs.netapp.com/us-en/workload-fsx-ontap/improve-configurations.html[Implement well-architected file system configurations for Storage workloads^]
+
+* *Database workloads*
+Workload Factory for Databases includes new storage configuration for Oracle for enabling and setting up Direct NFS (dNFS) to improve I/O performance and decrease the load on the host and the storage system.
++
+** dNFS enablement
+** dNFS consistent IP resolution 
+** dNFS configuration file
+** dNFS `nosharecache`
++
+link:https://docs.netapp.com/us-en/workload-databases/optimize-configurations.html[Implement well-architected database workloads^]
+
+=== New permissions for Storage
+
+New permissions have been added to the Storage workload for enhancements to managing S3 access points.
+
+link:https://docs.netapp.com/us-en/workload-setup-admin/permissions-reference.html#change-log[Permissions reference change log]
