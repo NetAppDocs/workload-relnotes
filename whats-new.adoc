@@ -14,6 +14,8 @@ Learn about the most recent changes to the workloads that are part of NetApp Wor
 // end local content
 ## 01 February 2026 
 
+include::_include/workload-fsx-ontap.adoc[]
+include::_whatsnew/2026-02-01_workload-fsx-ontap.adoc[leveloffset=+1]
 include::_include/workload-vmware.adoc[]
 include::_whatsnew/2026-02-01_workload-vmware.adoc[leveloffset=+1]
 include::_include/workload-setup-admin.adoc[]
