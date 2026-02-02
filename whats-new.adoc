@@ -62,3 +62,4 @@ include::_include/workload-vmware.adoc[]
 include::_whatsnew/2025-11-27_workload-vmware.adoc[leveloffset=+1]
 include::_include/workload-setup-admin.adoc[]
 include::_whatsnew/2025-11-27_workload-setup-admin.adoc[leveloffset=+1]
+
