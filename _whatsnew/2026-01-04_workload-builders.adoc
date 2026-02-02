@@ -1,0 +1,11 @@
+=== NetApp Workload Factory for Builders now NetApp Workload Factory for EDA
+Workload Factory for Builders is now Workload Factory for EDA. The name change reflects the focus on electronic design automation (EDA) workloads. 
+
+Workload Factory for EDA helps you optimize FSx for ONTAP across multiple file systems. You can optimize for performance and reduce operational costs by automating storage parameters, analyzing performance constraints, and get insights on EDA projects. 
+Workload Factory for EDA is designed to integrate with your Infrastructure as Code (IaC) frameworks.
+ 
+=== Ask me AI assistant home page integration
+ 
+The Workload Factory console home page embeds the Ask me AI assistant, enabling you to ask questions about your own storage estate, get personalized insights directly from your environment, and refer to previous conversations. You can interact with Ask me to understand your workloads, troubleshoot issues, and learn more about Workload Factory — all without leaving the console.
+ 
+// Use absolute links in these files

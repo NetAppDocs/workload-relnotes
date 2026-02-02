@@ -40,4 +40,3 @@ include::_include/workload-vmware.adoc[]
 include::_whatsnew/2025-08-03_workload-vmware.adoc[leveloffset=+1]
 include::_include/workload-genai.adoc[]
 include::_whatsnew/2025-08-03_workload-genai.adoc[leveloffset=+1]
-
