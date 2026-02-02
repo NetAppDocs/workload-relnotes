@@ -16,6 +16,8 @@ Learn about the most recent changes to the workloads that are part of NetApp Wor
 
 include::_include/workload-vmware.adoc[]
 include::_whatsnew/2026-02-01_workload-vmware.adoc[leveloffset=+1]
+include::_include/workload-setup-admin.adoc[]
+include::_whatsnew/2026-02-01_workload-setup-admin.adoc[leveloffset=+1]
 include::_include/workload-builders.adoc[]
 include::_whatsnew/2026-02-01_workload-builders.adoc[leveloffset=+1]
 
