@@ -25,8 +25,8 @@ include::_include/workload-vmware.adoc[]
 include::_whatsnew/2026-02-01_workload-vmware.adoc[leveloffset=+1]
 include::_include/workload-setup-admin.adoc[]
 include::_whatsnew/2026-02-01_workload-setup-admin.adoc[leveloffset=+1]
-include::_include/workload-builders.adoc[]
-include::_whatsnew/2026-02-01_workload-builders.adoc[leveloffset=+1]
+include::_include/workload-eda.adoc[]
+include::_whatsnew/2026-02-01_workload-eda.adoc[leveloffset=+1]
 
 ## 04 January 2026 
 
@@ -38,8 +38,8 @@ include::_include/workload-vmware.adoc[]
 include::_whatsnew/2026-01-04_workload-vmware.adoc[leveloffset=+1]
 include::_include/workload-setup-admin.adoc[]
 include::_whatsnew/2026-01-04_workload-setup-admin.adoc[leveloffset=+1]
-include::_include/workload-builders.adoc[]
-include::_whatsnew/2026-01-04_workload-builders.adoc[leveloffset=+1]
+include::_include/workload-eda.adoc[]
+include::_whatsnew/2026-01-04_workload-eda.adoc[leveloffset=+1]
 
 ## 18 December 2025 
 
