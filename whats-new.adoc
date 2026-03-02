@@ -19,6 +19,8 @@ include::_whatsnew/2026-03-02_workload-databases.adoc[leveloffset=+1]
 
 ## 01 March 2026 
 
+include::_include/workload-fsx-ontap.adoc[]
+include::_whatsnew/2026-03-01_workload-fsx-ontap.adoc[leveloffset=+1]
 include::_include/workload-setup-admin.adoc[]
 include::_whatsnew/2026-03-01_workload-setup-admin.adoc[leveloffset=+1]
 include::_include/workload-eda.adoc[]
