@@ -56,14 +56,3 @@ include::_whatsnew/2025-12-18_workload-databases.adoc[leveloffset=+1]
 include::_include/workload-fsx-ontap.adoc[]
 include::_whatsnew/2025-12-04_workload-fsx-ontap.adoc[leveloffset=+1]
 
-## 27 November 2025 
-
-include::_include/workload-fsx-ontap.adoc[]
-include::_whatsnew/2025-11-27_workload-fsx-ontap.adoc[leveloffset=+1]
-include::_include/workload-databases.adoc[]
-include::_whatsnew/2025-11-27_workload-databases.adoc[leveloffset=+1]
-include::_include/workload-vmware.adoc[]
-include::_whatsnew/2025-11-27_workload-vmware.adoc[leveloffset=+1]
-include::_include/workload-setup-admin.adoc[]
-include::_whatsnew/2025-11-27_workload-setup-admin.adoc[leveloffset=+1]
-
