@@ -12,6 +12,11 @@ summary: "Learn about the most recent changes to the workloads that are part of 
 Learn about the most recent changes to the workloads that are part of NetApp Workload Factory.
 
 // end local content
+## 09 March 2026 
+
+include::_include/workload-vmware.adoc[]
+include::_whatsnew/2026-03-09_workload-vmware.adoc[leveloffset=+1]
+
 ## 02 March 2026 
 
 include::_include/workload-databases.adoc[]
@@ -21,6 +26,8 @@ include::_whatsnew/2026-03-02_workload-databases.adoc[leveloffset=+1]
 
 include::_include/workload-fsx-ontap.adoc[]
 include::_whatsnew/2026-03-01_workload-fsx-ontap.adoc[leveloffset=+1]
+include::_include/workload-vmware.adoc[]
+include::_whatsnew/2026-03-01_workload-vmware.adoc[leveloffset=+1]
 include::_include/workload-setup-admin.adoc[]
 include::_whatsnew/2026-03-01_workload-setup-admin.adoc[leveloffset=+1]
 include::_include/workload-eda.adoc[]
@@ -64,9 +71,4 @@ include::_whatsnew/2026-01-04_workload-eda.adoc[leveloffset=+1]
 
 include::_include/workload-databases.adoc[]
 include::_whatsnew/2025-12-18_workload-databases.adoc[leveloffset=+1]
-
-## 04 December 2025 
-
-include::_include/workload-fsx-ontap.adoc[]
-include::_whatsnew/2025-12-04_workload-fsx-ontap.adoc[leveloffset=+1]
 
