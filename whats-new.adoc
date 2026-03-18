@@ -67,8 +67,3 @@ include::_whatsnew/2026-01-04_workload-setup-admin.adoc[leveloffset=+1]
 include::_include/workload-eda.adoc[]
 include::_whatsnew/2026-01-04_workload-eda.adoc[leveloffset=+1]
 
-## 18 December 2025 
-
-include::_include/workload-databases.adoc[]
-include::_whatsnew/2025-12-18_workload-databases.adoc[leveloffset=+1]
-
