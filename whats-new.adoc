@@ -20,6 +20,8 @@ include::_include/workload-databases.adoc[]
 include::_whatsnew/2026-04-06_workload-databases.adoc[leveloffset=+1]
 include::_include/workload-setup-admin.adoc[]
 include::_whatsnew/2026-04-06_workload-setup-admin.adoc[leveloffset=+1]
+include::_include/workload-eda.adoc[]
+include::_whatsnew/2026-04-06_workload-eda.adoc[leveloffset=+1]
 
 ## 09 March 2026 
 
