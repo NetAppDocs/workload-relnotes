@@ -12,6 +12,11 @@ summary: "Learn about the most recent changes to the workloads that are part of 
 Learn about the most recent changes to the workloads that are part of NetApp Workload Factory.
 
 // end local content
+## 03 May 2026 
+
+include::_include/workload-fsx-ontap.adoc[]
+include::_whatsnew/2026-05-03_workload-fsx-ontap.adoc[leveloffset=+1]
+
 ## 06 April 2026 
 
 include::_include/workload-fsx-ontap.adoc[]
