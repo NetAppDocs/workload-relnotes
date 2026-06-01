@@ -12,6 +12,11 @@ summary: "Learn about the most recent changes to the workloads that are part of 
 Learn about the most recent changes to the workloads that are part of NetApp Workload Factory.
 
 // end local content
+## 01 June 2026 
+
+include::_include/workload-databases.adoc[]
+include::_whatsnew/2026-06-01_workload-databases.adoc[leveloffset=+1]
+
 ## 31 May 2026 
 
 include::_include/workload-genai.adoc[]
