@@ -25,6 +25,8 @@ include::_include/workload-genai.adoc[]
 include::_whatsnew/2026-05-31_workload-genai.adoc[leveloffset=+1]
 include::_include/workload-setup-admin.adoc[]
 include::_whatsnew/2026-05-31_workload-setup-admin.adoc[leveloffset=+1]
+include::_include/workload-eda.adoc[]
+include::_whatsnew/2026-05-31_workload-eda.adoc[leveloffset=+1]
 
 ## 03 May 2026 
 
