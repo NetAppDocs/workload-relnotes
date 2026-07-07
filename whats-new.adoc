@@ -17,6 +17,11 @@ Learn about the most recent changes to the workloads that are part of NetApp Wor
 include::_include/workload-vmware.adoc[]
 include::_whatsnew/2026-07-06_workload-vmware.adoc[leveloffset=+1]
 
+## 05 July 2026 
+
+include::_include/workload-eda.adoc[]
+include::_whatsnew/2026-07-05_workload-eda.adoc[leveloffset=+1]
+
 ## 01 June 2026 
 
 include::_include/workload-databases.adoc[]
