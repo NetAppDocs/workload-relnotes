@@ -1,0 +1,9 @@
+=== Custom dashboards
+
+Create AI-powered dashboards that match your workloads and priorities so you can easily see how your operations are performing. Instead of relying on fixed views, custom dashboards let you focus on the information that matters most.
+
+Just describe what you want to track in plain language, and the AI will create a dashboard based on your request. For example, you can track disaster recovery status, capacity and costs across regions, storage protection compliance, and other operational metrics.
+
+Custom dashboards are read-only, so they cannot change your storage or workload settings. Anyone in your Workload Factory account can view and manage these dashboards, making it easy for teams to share insights and stay aligned.
+
+link:learn-custom-dashboards.html[Learn more about custom dashboards]

@@ -19,6 +19,8 @@ include::_whatsnew/2026-07-06_workload-vmware.adoc[leveloffset=+1]
 
 ## 05 July 2026 
 
+include::_include/workload-setup-admin.adoc[]
+include::_whatsnew/2026-07-05_workload-setup-admin.adoc[leveloffset=+1]
 include::_include/workload-eda.adoc[]
 include::_whatsnew/2026-07-05_workload-eda.adoc[leveloffset=+1]
 
