@@ -7,3 +7,7 @@ Just describe what you want to track in plain language, and the AI will create a
 Custom dashboards are read-only, so they cannot change your storage or workload settings. Anyone in your Workload Factory account can view and manage these dashboards, making it easy for teams to share insights and stay aligned.
 
 link:learn-custom-dashboards.html[Learn more about custom dashboards]
+
+=== GenAI workload removal from Workload Factory
+The GenAI workload has been removed from the Workload Factory console.
+
