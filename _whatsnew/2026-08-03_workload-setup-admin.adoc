@@ -18,9 +18,9 @@ After you create a custom dashboard, you'll get a notification with a direct lin
 
 This helps you know when your dashboard is ready and makes it easy to review or recreate it.
 
-link:create-custom-dashboard.html[Learn how to create custom dashboards]
+link:https://docs.netapp.com/us-en/workload-setup-admin/create-custom-dashboard.html[Learn how to create custom dashboards]
 
-link:configure-notifications.html[Learn about configuring notifications]
+link:https://docs.netapp.com/us-en/workload-setup-admin/configure-notifications.html[Learn about configuring notifications]
 
 ==== Private and public custom dashboards
 
@@ -30,9 +30,9 @@ New dashboards are private by default and visible only to you. You can make a da
 
 Each dashboard card shows a Private or Public label so you can quickly see which dashboards are shared.
 
-link:learn-custom-dashboards.html#dashboard-visibility-and-sharing[Learn about dashboard visibility and sharing]
+link:https://docs.netapp.com/us-en/workload-setup-admin/learn-custom-dashboards.html#view-and-share-dashboards[Learn about dashboard visibility and sharing]
 
-link:manage-custom-dashboards.html#change-dashboard-visibility[Learn how to share dashboards]
+link:https://docs.netapp.com/us-en/workload-setup-admin/manage-custom-dashboards.html#change-dashboard-visibility[Learn how to share dashboards]
 
 === AI features administration
 
@@ -47,4 +47,4 @@ AI features include Ask Me, custom dashboards, rule builder, and analyzers for E
 
 If AI features are turned off, users will see a message that AI is unavailable. 
 
-link:manage-genai-features.html[Learn about managing AI features]
+link:https://docs.netapp.com/us-en/workload-setup-admin/manage-genai-features.html[Learn about managing AI features]
