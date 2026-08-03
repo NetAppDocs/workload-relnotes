@@ -1,0 +1,49 @@
+=== Updated IAM permission policies for Databases
+
+Permissions for Databases were updated to improve feature access and limit SSM access where unnecessary.
+
+The view, planning, and analysis permissions are limited to AWS SSM documents. With these permissions, you can view hosts, instances, and databases. You can also run a basic on-demand well-architected analysis of your resources. 
+
+The operations and remediation permissions allow you to make changes to your resources, analyze error logs, get a comprehensive well-architected analysis of your resources and fix configuration issues.
+
+link:https://docs.netapp.com/us-en/workload-setup-admin/permissions-reference.html[Permissions reference]
+=== Custom dashboards
+
+==== Notifications for custom dashboards
+
+Workload Factory now notifies you when your custom dashboard is ready or if creation fails.
+
+After you create a custom dashboard, you'll get a notification with a direct link to view it. If creation fails, you'll get a notification with a link to the custom dashboard inventory to try again.
+
+This helps you know when your dashboard is ready and makes it easy to review or recreate it.
+
+link:create-custom-dashboard.html[Learn how to create custom dashboards]
+
+link:configure-notifications.html[Learn about configuring notifications]
+
+==== Private and public custom dashboards
+
+Custom dashboards now include share settings. You can keep a dashboard private or share it with your team.
+
+New dashboards are private by default and visible only to you. You can make a dashboard public at any time to share it with everyone in your Workload Factory account.
+
+Each dashboard card shows a Private or Public label so you can quickly see which dashboards are shared.
+
+link:learn-custom-dashboards.html#dashboard-visibility-and-sharing[Learn about dashboard visibility and sharing]
+
+link:manage-custom-dashboards.html#change-dashboard-visibility[Learn how to share dashboards]
+
+=== AI features administration
+
+You can control access to AI features across your organization with the following settings in Workload Factory administration.
+
+* Use NetApp-managed Bedrock (recommended and enabled by default, with monthly credit limits)
+* Turn off all AI features
+
+The new administration page lets you manage these settings in one place.
+
+AI features include Ask Me, custom dashboards, rule builder, and analyzers for EMS, database logs, and volume latency.
+
+If AI features are turned off, users will see a message that AI is unavailable. 
+
+link:manage-genai-features.html[Learn about managing AI features]
