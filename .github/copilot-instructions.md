@@ -8,11 +8,9 @@ NetApp Workload Factory is a cloud-based platform that provides specialized work
 ### Repository structure
 - `_whatsnew/` – Individual AsciiDoc release note entry files, named `YYYY-MM-DD_workload-name.adoc`, one file per workload per release date
 - `_include/` – AsciiDoc include files that define the section heading for each workload (e.g., `=== Amazon FSx for NetApp ONTAP`); included immediately before each `_whatsnew/` file in the main page
-- `whats-new.adoc` – Main release notes page; assembles all entries chronologically using AsciiDoc `include::` directives
 - `_index.yml` – Landing page configuration for the release notes site
 - `project.yml` – Site-level settings including the list of source repositories for auto-generated release notes, sidebar navigation, and product family reference
 - `media/` – Images and other media assets
-- `legal-notices.adoc` – Legal notices page
 
 ### Product-specific context
 
