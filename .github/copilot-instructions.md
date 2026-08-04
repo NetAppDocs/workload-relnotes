@@ -21,7 +21,7 @@ NetApp Workload Factory is a cloud-based platform that provides specialized work
 - The `whats-new.adoc` page is manually maintained: each release date section uses `include::_include/workload-name.adoc[]` for the heading followed by `include::_whatsnew/YYYY-MM-DD_workload-name.adoc[leveloffset=+1]` for the content
 
 **Key concepts:**
-- *Workload* – A named service category within Workload Factory; current workloads are FSx for ONTAP, Databases, VMware, GenAI, EDA, and Setup and administration
+- *Workload* – A named service category within Workload Factory; current workloads are FSx for ONTAP, Databases, VMware, EDA, and Setup and administration
 - *FSx for ONTAP* – Amazon FSx for NetApp ONTAP; the primary storage backend for most Workload Factory services
 - *EDA* – Electronic Design Automation workload; focuses on latency analysis and monitoring for EDA environments running on FSx for ONTAP
 - *EVS* – Elastic VMware Service; referenced in VMware workload release notes in the context of TCO/savings calculators
@@ -29,8 +29,8 @@ NetApp Workload Factory is a cloud-based platform that provides specialized work
 
 **Naming conventions and terminology:**
 - The product is always referred to as *NetApp Workload Factory* (full name) or *Workload Factory* (short form); not "WLF" or other abbreviations
-- Workload section headings follow the patterns used in `_include/`: `Amazon FSx for NetApp ONTAP`, `Database workloads`, `VMware workloads`, `GenAI workloads`, `EDA workloads`, `Setup and administration`
-- `_whatsnew/` file names follow the pattern `YYYY-MM-DD_workload-name.adoc` where *workload-name* matches the repository name suffix (e.g., `workload-fsx-ontap`, `workload-databases`, `workload-vmware`, `workload-genai`, `workload-eda`, `workload-setup-admin`)
+- Workload section headings follow the patterns used in `_include/`: `Amazon FSx for NetApp ONTAP`, `Database workloads`, `VMware workloads`, `EDA workloads`, `Setup and administration`
+- `_whatsnew/` file names follow the pattern `YYYY-MM-DD_workload-name.adoc` where *workload-name* matches the repository name suffix (e.g., `workload-fsx-ontap`, `workload-databases`, `workload-vmware`, `workload-eda`, `workload-setup-admin`)
 - Links within `_whatsnew/` files use absolute URLs to `docs.netapp.com`
 
 ### Typical user workflows
