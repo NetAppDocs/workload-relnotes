@@ -12,7 +12,6 @@ settings:
       - workload-fsx-ontap
       - workload-databases
       - workload-vmware
-      - workload-genai 
       - workload-setup-admin
       - workload-eda
 
