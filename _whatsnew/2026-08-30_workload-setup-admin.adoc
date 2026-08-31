@@ -1,0 +1,4 @@
+=== New onboarding experience for credentials and links
+Workload Factory improves the onboarding experience for credentials and links, making it easier to get started. After you create your account and log in, select *Get started* in any workload tile, for example *Storage*, and the next page takes you through the setup process step by step.
+
+
