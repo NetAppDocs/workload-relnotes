@@ -1,0 +1,55 @@
+=== AI agents for Workload Factory
+
+Workload Factory AIOps uses AI to analyze your environment and recommend improvements. If you approve, it can also take actions using the credentials and permissions you set up. AI agents analyze your environment, helping you find risks, improve workloads, and troubleshoot issues in Workload Factory and Slack.
+
+Access AI agents in the new *Explore Agents* section in Ask Me. By default, agents run in read-only mode and provide recommendations and analysis.
+
+Use *Agents settings* to control how agents work. You can:
+
+* Choose read-only or read-write mode
+* Select which credentials agents can use
+* Add custom instructions
+* Adjust how detailed responses are
+
+These additional controls give you more visibility and oversight. In read-write mode, agents must get your approval before making changes to AWS, ONTAP, or supported APIs. You can also choose how much detail to see in responses, including information about the agent's reasoning and, in Slack, its tool activity.
+
+Agents also support multi-account environments and easier setup. A single agent can securely work across multiple AWS accounts using multiple credentials. 
+
+link:learn-agent.html[Learn about AI agents]
+
+link:manage-agent-settings.html[Manage agents settings]
+
+=== Scheduled tasks in Ask Me
+You can now tailor a prompt in Ask Me chat to create scheduled tasks.
+Use scheduled tasks to ask Ask Me to run recurring checks and send updates in chat based on the schedule you define.
+
+Example prompts:
+
+* Check the health and lifecycle status of all FSx for NetApp ONTAP file systems every hour to catch issues early.
+* List all accessible AWS FSx file systems every hour to keep an up-to-date inventory.
+
+link:workload-factory-overview.html#features[Learn more about Ask Me]
+
+=== ONTAP support in Ask Me
+
+Ask Me now supports FSx for ONTAP and on-premises ONTAP systems. Use the same chat experience to get answers and insights across your entire ONTAP infrastructure.
+
+link:workload-factory-overview.html#features[Learn more about Ask Me]
+
+=== Notifications update    
+NetApp Console notifications are now enabled by default. NetApp Console users will automatically receive Workload Factory notifications without additional configuration.
+
+link:https://docs.netapp.com/us-en/workload-setup-admin/configure-notifications.html[Workload Factory notifications]
+
+=== Link creation notification email
+
+Workload Factory now reminds you to complete link association after you successfully add credentials. While credentials enable resource discovery, advanced ONTAP features require link association with the discovered file systems. You'll receive the email notification once a week on Monday. After you complete the link association, the notifications stop.
+
+=== Lambda link version notifications and upgrade guidance
+
+Workload Factory now alerts you when a Lambda link is not using the latest available image. If automatic upgrades are not supported for a link, the notification shows when a newer version is available.
+
+You can view upgrade instructions from the Links page. The instructions explain how to manually update the Lambda link image and enable automatic upgrades when available. Keeping links up to date gives you access to the latest features, fixes known issues, and applies recent security updates.
+
+You also get an alert in the FSx for ONTAP dashboard when a newer link version is available for a link that does not support automatic upgrades.
+
