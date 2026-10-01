@@ -15,9 +15,9 @@ These additional controls give you more visibility and oversight. In read-write 
 
 Agents also support multi-account environments and easier setup. A single agent can securely work across multiple AWS accounts using multiple credentials. 
 
-link:learn-agent.html[Learn about AI agents]
+link:https://docs.netapp.com/us-en/workload-setup-admin/learn-agent.html[Learn about AI agents]
 
-link:manage-agent-settings.html[Manage agents settings]
+link:https://docs.netapp.com/us-en/workload-setup-admin/manage-agent-settings.html[Manage agents settings]
 
 === Scheduled tasks in Ask Me
 You can now tailor a prompt in Ask Me chat to create scheduled tasks.
@@ -28,13 +28,13 @@ Example prompts:
 * Check the health and lifecycle status of all FSx for NetApp ONTAP file systems every hour to catch issues early.
 * List all accessible AWS FSx file systems every hour to keep an up-to-date inventory.
 
-link:workload-factory-overview.html#features[Learn more about Ask Me]
+link:https://docs.netapp.com/us-en/workload-setup-admin/workload-factory-overview.html#features[Learn more about Ask Me]
 
 === ONTAP support in Ask Me
 
 Ask Me now supports FSx for ONTAP and on-premises ONTAP systems. Use the same chat experience to get answers and insights across your entire ONTAP infrastructure.
 
-link:workload-factory-overview.html#features[Learn more about Ask Me]
+link:https://docs.netapp.com/us-en/workload-setup-admin/workload-factory-overview.html#features[Learn more about Ask Me]
 
 === Notifications update    
 NetApp Console notifications are now enabled by default. NetApp Console users will automatically receive Workload Factory notifications without additional configuration.
