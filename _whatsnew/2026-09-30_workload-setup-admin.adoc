@@ -30,9 +30,9 @@ Example prompts:
 
 link:https://docs.netapp.com/us-en/workload-setup-admin/workload-factory-overview.html#features[Learn more about Ask Me]
 
-=== ONTAP support in Ask Me
+=== Storage support in Ask Me
 
-Ask Me now supports FSx for ONTAP and on-premises ONTAP systems. Use the same chat experience to get answers and insights across your entire ONTAP infrastructure.
+Ask Me now supports FSx for ONTAP and Google Cloud NetApp Volumes. Use the same chat experience to get answers and insights across your supported storage environments.
 
 link:https://docs.netapp.com/us-en/workload-setup-admin/workload-factory-overview.html#features[Learn more about Ask Me]
 
