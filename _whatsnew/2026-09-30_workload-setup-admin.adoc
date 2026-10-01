@@ -52,4 +52,3 @@ Workload Factory now alerts you when a Lambda link is not using the latest avail
 You can view upgrade instructions from the Links page. The instructions explain how to manually update the Lambda link image and enable automatic upgrades when available. Keeping links up to date gives you access to the latest features, fixes known issues, and applies recent security updates.
 
 You also get an alert in the FSx for ONTAP dashboard when a newer link version is available for a link that does not support automatic upgrades.
-
