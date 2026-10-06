@@ -1,0 +1,21 @@
+=== Custom dashboard updates
+
+Custom dashboards now make it easier to manage your work.
+
+You can edit dashboards directly from the catalog, including metrics, charts, and time ranges.
+
+When you edit a dashboard, Workload Factory reopens the chat with your previous prompts and messages. You can then update the dashboard, save your changes, or restore the previous version.
+
+Only the dashboard creator can edit the dashboard. While you are editing, other users cannot see your changes until you save them.
+
+The dashboard catalog now includes more filters to help you quickly find dashboards based on category and status.
+
+If your administrator disables AI features or your monthly credit limit is reached, dashboard creation and editing are disabled.
+
+link:https://docs.netapp.com/us-en/workload-setup-admin/learn-custom-dashboards.html[Learn about custom dashboards]
+
+link:https://docs.netapp.com/us-en/workload-setup-admin/create-custom-dashboard.html[Create a custom dashboard]
+
+link:https://docs.netapp.com/us-en/workload-setup-admin/manage-custom-dashboards.html[Manage custom dashboards]
+
+link:https://docs.netapp.com/us-en/workload-setup-admin/troubleshoot-custom-dashboards.html[Troubleshoot custom dashboards]
