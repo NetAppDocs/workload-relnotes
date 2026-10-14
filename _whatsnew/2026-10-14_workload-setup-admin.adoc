@@ -1,0 +1,9 @@
+=== Use your own Amazon Bedrock instance for AI tools
+
+Workload Factory now includes another option on the AI settings page that lets customers use their own Amazon Bedrock instance.
+
+This option is available under customer-managed Bedrock for AI tools and is supported by all Workload Factory AI services.
+
+After you connect, Workload Factory lets you know whether the connection was successful.
+
+link:https://docs.netapp.com/us-en/workload-setup-admin/manage-genai-features.html[Learn about managing AI features]
