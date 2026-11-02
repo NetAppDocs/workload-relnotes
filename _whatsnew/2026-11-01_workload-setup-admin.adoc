@@ -1,0 +1,35 @@
+=== Check and refresh custom dashboard data
+
+You can now see when your custom dashboard metrics were last updated and manually refresh them. Hover over *Refresh data* to view the last Updated date and time.
+
+Select *Refresh data* to start a new scan. A banner confirms that the scan has started, and the button is disabled until the scan finishes.
+
+When new data is available, select *Load it now* in the notification banner to update the dashboard.
+
+Both *Refresh data* and *Load it now* create data collection events in Tracker.
+
+link:https://docs.netapp.com/us-en/workload-setup-admin/manage-custom-dashboards.html#refresh-dashboard-data[Learn how to refresh custom dashboard data]
+
+=== Specify regions for custom dashboards
+
+Custom dashboards now ask you to choose one or more regions if your request does not include them. Dashboard data is limited to the regions you select.
+
+link:https://docs.netapp.com/us-en/workload-setup-admin/create-custom-dashboard.html[Learn how to create a custom dashboard]
+
+=== IAM policy for link creation
+
+The CloudFormation template and Terraform code for creating links now use an IAM policy instead of inline Lambda permissions.
+
+link:https://docs.netapp.com/us-en/workload-setup-admin/create-link.html[Learn how to create a link]
+
+=== Audit and tracking for AI agent actions
+
+You can now use Tracker to review changes to AI agent settings and, in read-write mode, each approval request, including the agent's question and the user's answer.
+
+Resource changes made through Workload Factory APIs are logged by the Workload Factory service that performs the operation.
+
+link:https://docs.netapp.com/us-en/workload-setup-admin/learn-agent.html#audit-and-tracking-for-agent-actions[Learn about audit and tracking for agent actions]
+
+=== Link creation improvements
+
+Workload Factory has updated Codebox output for link creation by replacing inline Lambda permissions with the IAM policy for the CloudFormation template and Terraform.
